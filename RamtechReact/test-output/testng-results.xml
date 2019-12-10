@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Ramtech automation" duration-ms="129527" started-at="2019-12-10T04:50:20Z" finished-at="2019-12-10T04:52:29Z">
+    <groups>
+    </groups>
+    <test name="Create Alaram" duration-ms="129527" started-at="2019-12-10T04:50:20Z" finished-at="2019-12-10T04:52:29Z">
+      <class name="com.ramtech.tests.LoginTest">
+        <test-method status="PASS" signature="cal_add()[pri:0, instance:com.ramtech.tests.LoginTest@42e26948]" name="cal_add" duration-ms="129503" started-at="2019-12-10T04:50:20Z" finished-at="2019-12-10T04:52:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cal_add -->
+      </class> <!-- com.ramtech.tests.LoginTest -->
+    </test> <!-- Create Alaram -->
+  </suite> <!-- Ramtech automation -->
+</testng-results>
